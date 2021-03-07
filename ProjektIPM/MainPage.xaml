@@ -30,6 +30,6 @@
                 <Button Name="BackButton" Click="ExitButtonFromApp" Style="{StaticResource NavigationBackButtonNormalStyle}" VerticalAlignment="Top"/>
             </CommandBar.Content>
         </CommandBar>
-        <TextBlock HorizontalAlignment="Left" Margin="418,48,0,0" Text="Średnie Kursy walut" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="418,48,0,0" Text="Welcome to Currency App" TextWrapping="Wrap" VerticalAlignment="Top" SelectionChanged="TextBlock_SelectionChanged"/>
     </Grid>
 </Page>

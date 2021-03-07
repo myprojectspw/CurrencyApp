@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>299067f6-2c36-44d1-9042-b4a8ec2fe65b</PackageIdentityName>
     <PackageIdentityPublisher>CN=pa-wo</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>DBB6BBFBC1D68A4CF6394E71F272A7D5BB499BA077B8A8B8C31DA7CAA3A0D74D</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>58B2A8212AD557E5A2524C8913AA28006198EB95ED6BD2FF4BDA2B9FBF66AF8D</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>299067f6-2c36-44d1-9042-b4a8ec2fe65b_1.0.0.0_x86__d11dg8hbmg7xe</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>299067f6-2c36-44d1-9042-b4a8ec2fe65b_d11dg8hbmg7xe!App</RegisteredUserModeAppID>
     <RegisteredPackageID>299067f6-2c36-44d1-9042-b4a8ec2fe65b</RegisteredPackageID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-07-20T10:16:18.238</Modified>
+      <Modified>2021-03-07T11:03:39.553</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\ProjektIPM.exe">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\ProjektIPM.exe">
       <PackagePath>entrypoint\ProjektIPM.exe</PackagePath>
-      <Modified>2020-07-20T10:16:14.988</Modified>
+      <Modified>2021-03-07T11:03:38.383</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\pa-wo\.nuget\packages\colorcode.core\2.0.6\lib\netstandard1.4\ColorCode.Core.dll">
       <PackagePath>ColorCode.Core.dll</PackagePath>
@@ -226,59 +226,59 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2018-10-22T23:33:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2020-06-12T10:09:54.661</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2020-03-24T15:44:04.388</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-24T15:44:04.388</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-24T15:44:04.388</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-24T15:44:04.388</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-24T15:44:04.388</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-24T15:44:04.388</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-24T15:44:04.388</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\ProjektIPM.xr.xml">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\ProjektIPM.xr.xml">
       <PackagePath>ProjektIPM.xr.xml</PackagePath>
-      <Modified>2020-06-28T20:30:11.332</Modified>
+      <Modified>2021-03-07T11:03:38.139</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-07-20T10:16:14.803</Modified>
+      <Modified>2021-03-07T11:03:38.191</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-07-20T10:16:14.803</Modified>
+      <Modified>2021-03-07T11:03:38.191</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\SecondPage.xbf">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\SecondPage.xbf">
       <PackagePath>SecondPage.xbf</PackagePath>
-      <Modified>2020-07-20T10:16:14.803</Modified>
+      <Modified>2021-03-07T11:03:38.191</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -520,13 +520,13 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2019-04-15T11:29:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-07-20T10:16:15.892</Modified>
+      <Modified>2021-03-07T11:00:46.513</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\Core\ProjektIPM.exe">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\Core\ProjektIPM.exe">
       <PackagePath>ProjektIPM.exe</PackagePath>
-      <Modified>2020-07-20T10:16:18.232</Modified>
+      <Modified>2021-03-07T11:03:39.547</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

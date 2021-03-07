@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>299067f6-2c36-44d1-9042-b4a8ec2fe65b</PackageIdentityName>
     <PackageIdentityPublisher>CN=pa-wo</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\ProjektIPM.exe">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\ProjektIPM.exe">
       <PackagePath>entrypoint\ProjektIPM.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\pa-wo\.nuget\packages\colorcode.core\2.0.6\lib\netstandard1.4\ColorCode.Core.dll">
@@ -169,46 +169,46 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\ProjektIPM.xr.xml">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\ProjektIPM.xr.xml">
       <PackagePath>ProjektIPM.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\SecondPage.xbf">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\SecondPage.xbf">
       <PackagePath>SecondPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
@@ -391,10 +391,10 @@
     <AppxPackagedFile Include="C:\Users\pa-wo\.nuget\packages\xamarin.forms\3.6.0.344457\lib\uap10.0\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Praca\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\Core\ProjektIPM.exe">
+    <AppxPackagedFile Include="C:\Users\pa-wo\Desktop\Hobby\Projekty Programistyczne\CurrencyApp\ProjektIPM\bin\x86\Debug\Core\ProjektIPM.exe">
       <PackagePath>ProjektIPM.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

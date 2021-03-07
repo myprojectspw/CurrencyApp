@@ -38,6 +38,7 @@
       <RootProperty Name="UseLayoutRounding" />
       <RootProperty Name="FontWeight" />
       <RootProperty Name="FontSize" />
+      <RootEvent Name="SelectionChanged" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
       <RootProperty Name="Orientation" />

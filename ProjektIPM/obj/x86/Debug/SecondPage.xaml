@@ -18,11 +18,11 @@
                 <c:DataGrid x:ConnectionId='12' x:Name="dataGridCurrency" HorizontalAlignment="Center" Margin="0,0,0,0" AutoGenerateColumns="False" Width="288" Height="461"/>
             </ScrollViewer>
         </StackPanel>
-        <Button x:ConnectionId='3' Content="Pobierz" HorizontalAlignment="Left" Margin="48,195,0,0" VerticalAlignment="Top"                                             Width="100"/>
+        <Button x:ConnectionId='3' Content="Download" HorizontalAlignment="Left" Margin="48,195,0,0" VerticalAlignment="Top"                                             Width="100"/>
         <TextBox x:ConnectionId='4' HorizontalAlignment="Left"                                                        Margin="49,248,0,0" VerticalAlignment="Top" Width="99"/>
         <TextBox x:ConnectionId='5' HorizontalAlignment="Left"                                                         Margin="49,305,0,0" VerticalAlignment="Top" Width="99"/>
         <Charting:Chart x:ConnectionId='6' x:Name="LineChart" Margin="494,129,188,129" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" >
-            <Charting:LineSeries Title="Przebieg kursu" IndependentValuePath="dateC" DependentValuePath="valueC" IsSelectionEnabled="True" Margin="10,-24,0.2,23.8"/>
+            <Charting:LineSeries Title="Currency History" IndependentValuePath="dateC" DependentValuePath="valueC" IsSelectionEnabled="True" Margin="10,-24,0.2,23.8"/>
         </Charting:Chart>
         <CommandBar>
             <CommandBar.Content>
@@ -30,7 +30,7 @@
             </CommandBar.Content>
             <AppBarButton x:ConnectionId='11' x:Name="ExitButton"                          Icon="Forward" VerticalAlignment="Stretch" HorizontalAlignment="Center" Margin="0,0,0,0"/>
         </CommandBar>
-        <Button x:ConnectionId='7' Content="Zapisz Wykres" HorizontalAlignment="Left" Margin="32,362,0,0" VerticalAlignment="Top" Width="133" Height="37"                           />
+        <Button x:ConnectionId='7' Content="Save chart" HorizontalAlignment="Left" Margin="32,362,0,0" VerticalAlignment="Top" Width="133" Height="37"                           />
         <ProgressBar x:ConnectionId='8' HorizontalAlignment="Left" Height="20" Margin="48,94,0,0" VerticalAlignment="Top" Width="100"                                                                                                                                                                    />
         <TextBlock x:ConnectionId='9' HorizontalAlignment="Left" Margin="50,68,0,0"                                                     TextWrapping="Wrap" VerticalAlignment="Top"/>
     </Grid>

@@ -13516,11 +13516,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pa-wo\\source\\repos\\ProjektIPM\\ProjektIPM\\ProjektIPM.csproj",
+      "projectUniqueName": "C:\\Users\\pa-wo\\Desktop\\Hobby\\Projekty Programistyczne\\CurrencyApp\\ProjektIPM\\ProjektIPM.csproj",
       "projectName": "ProjektIPM",
-      "projectPath": "C:\\Users\\pa-wo\\source\\repos\\ProjektIPM\\ProjektIPM\\ProjektIPM.csproj",
+      "projectPath": "C:\\Users\\pa-wo\\Desktop\\Hobby\\Projekty Programistyczne\\CurrencyApp\\ProjektIPM\\ProjektIPM.csproj",
       "packagesPath": "C:\\Users\\pa-wo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pa-wo\\source\\repos\\ProjektIPM\\ProjektIPM\\obj\\",
+      "outputPath": "C:\\Users\\pa-wo\\Desktop\\Hobby\\Projekty Programistyczne\\CurrencyApp\\ProjektIPM\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

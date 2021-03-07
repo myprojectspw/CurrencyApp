@@ -22,15 +22,15 @@
         <TextBlock x:ConnectionId='4' HorizontalAlignment="Left" Margin="144,58,0,0"                                                   Foreground="Red" TextWrapping="Wrap" VerticalAlignment="Top" Height="45" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" Width="96" d:LayoutRounding="Auto" FontWeight="Bold"></TextBlock>
         <StackPanel Orientation="Horizontal" Margin="442,48,0,81" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" >
             <ScrollViewer ScrollViewer.VerticalScrollBarVisibility="Auto" Margin="0,0,0.2,0" Height="574">
-                <c:DataGrid x:ConnectionId='6' x:Name="dataGrid" HorizontalAlignment="Center" Margin="0,0,0,0" AutoGenerateColumns="False" Width="471"                                              Height="461" VerticalAlignment="Stretch"/>
+                <c:DataGrid x:ConnectionId='7' x:Name="dataGrid" HorizontalAlignment="Center" Margin="0,0,0,0" AutoGenerateColumns="False" Width="471"                                              Height="461" VerticalAlignment="Stretch"/>
             </ScrollViewer>
         </StackPanel>
         <CommandBar>
             <CommandBar.Content>
-                <Button x:ConnectionId='5' Name="BackButton"                           Style="{StaticResource NavigationBackButtonNormalStyle}" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='6' Name="BackButton"                           Style="{StaticResource NavigationBackButtonNormalStyle}" VerticalAlignment="Top"/>
             </CommandBar.Content>
         </CommandBar>
-        <TextBlock HorizontalAlignment="Left" Margin="418,48,0,0" Text="Średnie Kursy walut" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock x:ConnectionId='5' HorizontalAlignment="Left" Margin="418,48,0,0" Text="Welcome to Currency App" TextWrapping="Wrap" VerticalAlignment="Top"                                              />
     </Grid>
 </Page>
 

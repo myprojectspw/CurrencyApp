@@ -18,11 +18,11 @@
                 <c:DataGrid x:Name="dataGridCurrency" HorizontalAlignment="Center" Margin="0,0,0,0" AutoGenerateColumns="False" Width="288" Height="461"/>
             </ScrollViewer>
         </StackPanel>
-        <Button Content="Pobierz" HorizontalAlignment="Left" Margin="48,195,0,0" VerticalAlignment="Top" Click="DownloadDataFromIntervalInTextBoxes" Width="100"/>
+        <Button Content="Download" HorizontalAlignment="Left" Margin="48,195,0,0" VerticalAlignment="Top" Click="DownloadDataFromIntervalInTextBoxes" Width="100"/>
         <TextBox HorizontalAlignment="Left" Text="{x:Bind Mode=TwoWay, Path=viewModel2.FirstDate}" Margin="49,248,0,0" VerticalAlignment="Top" Width="99"/>
         <TextBox HorizontalAlignment="Left" Text="{x:Bind Mode=TwoWay, Path=viewModel2.SecondDate}" Margin="49,305,0,0" VerticalAlignment="Top" Width="99"/>
         <Charting:Chart x:Name="LineChart" Margin="494,129,188,129" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" >
-            <Charting:LineSeries Title="Przebieg kursu" IndependentValuePath="dateC" DependentValuePath="valueC" IsSelectionEnabled="True" Margin="10,-24,0.2,23.8"/>
+            <Charting:LineSeries Title="Currency History" IndependentValuePath="dateC" DependentValuePath="valueC" IsSelectionEnabled="True" Margin="10,-24,0.2,23.8"/>
         </Charting:Chart>
         <CommandBar>
             <CommandBar.Content>
@@ -30,7 +30,7 @@
             </CommandBar.Content>
             <AppBarButton x:Name="ExitButton" Click="ExitButton_Click" Icon="Forward" VerticalAlignment="Stretch" HorizontalAlignment="Center" Margin="0,0,0,0"/>
         </CommandBar>
-        <Button Content="Zapisz Wykres" HorizontalAlignment="Left" Margin="32,362,0,0" VerticalAlignment="Top" Width="133" Height="37" Click="SaveChartToPngFile"/>
+        <Button Content="Save chart" HorizontalAlignment="Left" Margin="32,362,0,0" VerticalAlignment="Top" Width="133" Height="37" Click="SaveChartToPngFile"/>
         <ProgressBar HorizontalAlignment="Left" Height="20" Margin="48,94,0,0" VerticalAlignment="Top" Width="100" Maximum="{x:Bind Mode=TwoWay, Path=viewModel2.Finish}" Minimum="{x:Bind Mode=TwoWay, Path=viewModel2.Start}" Value="{x:Bind Mode=TwoWay, Path=viewModel2.Progress}"/>
         <TextBlock HorizontalAlignment="Left" Margin="50,68,0,0" Text="{x:Bind Mode=TwoWay, Path=viewModel2.Status}" TextWrapping="Wrap" VerticalAlignment="Top"/>
     </Grid>
